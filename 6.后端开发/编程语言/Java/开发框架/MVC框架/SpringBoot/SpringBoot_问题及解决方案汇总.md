@@ -11,3 +11,6 @@ https://blog.csdn.net/heshengfu1211/article/details/90553440
 
 SpringBoot2.x使用slf4j+logback日志，以及动态修改日志级别
 https://blog.csdn.net/qq_36174487/article/details/89706778
+
+SpringBoot集成PageHelper（Oracle数据库）
+https://my.oschina.net/u/3866531/blog/2249986
