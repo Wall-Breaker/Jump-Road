@@ -9,3 +9,5 @@ https://wenku.baidu.com/view/ba83fca0aa00b52acfc7cab1.html
 https://blog.csdn.net/Demorea/article/details/86509421
 
 
+mysql远程连接 Host * is not allowed to connect to this MySQL server
+https://blog.csdn.net/qq_39781497/article/details/81302950

@@ -8,3 +8,6 @@ https://blog.csdn.net/small__children/article/details/83051719
 
 java.sql.SQLException: ORA-01810: 格式代码出现两次
 https://blog.csdn.net/yangwenxue_admin/article/details/50954474
+
+oracle创建用户操作
+https://www.cnblogs.com/w-wu/p/11683749.html
