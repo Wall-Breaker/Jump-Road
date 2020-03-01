@@ -1,0 +1,21 @@
+#Elastic Search_常用API_RESTful版
+
+索引操作
+---
+
+* 创建非结构化索引
+PUT http://localhost:9200/test
+{
+   "settings": {
+      "index": {
+         "number_of_shards": "2", #分片数
+         "number_of_replicas": "0" #副本数
+      }
+   }
+}
+
+* 删除索引
+DELETE http://localhost:9200/test
+{
+   "acknowledged": true
+}

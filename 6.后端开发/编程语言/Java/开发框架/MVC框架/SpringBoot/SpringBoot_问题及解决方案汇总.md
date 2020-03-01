@@ -22,3 +22,6 @@ https://blog.csdn.net/qidasheng2012/article/details/88733140
 logback 常用配置详解（序）logback 简介
 https://www.iteye.com/blog/aub-1101222
 
+---
+SpringBoot项目打包之打jar包和部署发布
+https://www.cnblogs.com/qianjinyan/p/10175582.html
