@@ -19,3 +19,12 @@ DELETE http://localhost:9200/test
 {
    "acknowledged": true
 }
+
+* 查询索引信息
+GET http://localhost:9200/test/_settings
+
+* 动态修改分片
+PUT http://localhost:9200/test/_settings
+{
+    "number_of_replicas": 1
+}
