@@ -25,3 +25,6 @@ https://www.iteye.com/blog/aub-1101222
 ---
 SpringBoot项目打包之打jar包和部署发布
 https://www.cnblogs.com/qianjinyan/p/10175582.html
+---
+SpringBoot读取外部配置文件的方法
+https://blog.csdn.net/qq_42074921/article/details/89488192
