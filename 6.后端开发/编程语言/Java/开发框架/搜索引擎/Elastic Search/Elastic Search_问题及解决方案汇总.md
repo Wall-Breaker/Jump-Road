@@ -9,3 +9,6 @@ https://www.elastic.co/guide/en/elasticsearch/client/java-api/6.4/java-geo-queri
 
 使用Java Low Level REST Client操作elasticsearch的performRequest使用
 https://www.cnblogs.com/ginb/p/8682092.html
+
+【异常】elasticsearch的RestClientAPI请求超时问题：java.lang.RuntimeException: error while performing request
+https://blog.csdn.net/wangweislk/article/details/78839384
