@@ -12,3 +12,7 @@ https://www.cnblogs.com/ginb/p/8682092.html
 
 【异常】elasticsearch的RestClientAPI请求超时问题：java.lang.RuntimeException: error while performing request
 https://blog.csdn.net/wangweislk/article/details/78839384
+
+elasticsearch搜索引擎的常用方法(三) 查找10000条数据之后的数据
+https://blog.csdn.net/Misaki_root/article/details/101203647?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task
+https://blog.csdn.net/weixin_43876919/article/details/103292463?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task
