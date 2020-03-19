@@ -11,5 +11,6 @@ https://www.cnblogs.com/technology-huangyan/p/9146699.html
 https://jingyan.baidu.com/article/ff42efa9fd8c1cc19e2202bb.html
 * CentOS7虚拟机如何上网
 https://jingyan.baidu.com/article/642c9d345e3606644a46f7a2.html
+https://blog.51cto.com/bestlope/1977074
 * CentOS7镜像下载
 https://www.jianshu.com/p/a63f47e096e8

@@ -16,3 +16,6 @@ https://blog.csdn.net/wangweislk/article/details/78839384
 elasticsearch搜索引擎的常用方法(三) 查找10000条数据之后的数据
 https://blog.csdn.net/Misaki_root/article/details/101203647?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task
 https://blog.csdn.net/weixin_43876919/article/details/103292463?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task
+
+Linux---关闭Elasticsearch进程，并重新启动
+https://www.cnblogs.com/houweijian/p/10448655.html
