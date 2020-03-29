@@ -34,14 +34,28 @@ GET http://localhost:9200/test/_settings
 GET http://localhost:9200/testIndex/_mapping
 ```
  
-
 * 动态修改分片
 ``` 
 PUT http://localhost:9200/test/_settings
 {
     "number_of_replicas": 1
 }
+```
+
+* Elasticsearch插入、修改字段
 ``` 
+PUT http://localhost:9200/test/_mapping/doc
+{
+  "properties": {
+    "test789": {
+      "type": "geo_shape",
+      "ignore_z_value": true
+    }
+  }
+}
+``` 
+>[【参考】Elasticsearch插入、修改字段](https://www.cnblogs.com/hcy-fly/p/8602463.html)
+
 
 别名
 ---
@@ -206,3 +220,5 @@ PUT /testIndex/_settings
 ```
 > [查找10000条数据之后的数据](https://blog.csdn.net/Misaki_root/article/details/101203647?depth_1-utm_source=distribute.pc_relevant.none-task)
 > [Elasticsearch 查询10000条限制与totalhits值最大10000的解决](https://blog.csdn.net/weixin_43876919/article/details/103292463?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
+
+
