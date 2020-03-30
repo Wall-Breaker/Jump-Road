@@ -149,7 +149,7 @@ GET /testIndex/doc/_search
 ---
 * 
 ```
-
+ 
 ```
 
 聚合查询
