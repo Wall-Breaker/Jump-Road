@@ -19,3 +19,6 @@ https://blog.csdn.net/weixin_43876919/article/details/103292463?depth_1-utm_sour
 
 Linux---关闭Elasticsearch进程，并重新启动
 https://www.cnblogs.com/houweijian/p/10448655.html
+
+ES地理范围查询第二讲：地理位置信息之geo_shape
+https://blog.csdn.net/u013272779/article/details/103064162?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task
