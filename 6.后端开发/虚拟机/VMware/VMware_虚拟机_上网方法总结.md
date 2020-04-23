@@ -9,14 +9,13 @@ https://blog.csdn.net/cndmss/article/details/80149952?depth_1-utm_source=distrib
 ---
 
 * 确认VMware服务全部开启
----
 https://blog.csdn.net/Eleven_mao/article/details/86684031
 
 * 关防火墙
----
 https://blog.csdn.net/ytangdigl/article/details/79796961
 
 * 配置window的internet连接共享
----
 https://blog.51cto.com/bestlope/1977074
 
+* centos 7 network.service control process exited
+https://www.cnblogs.com/shiqi17/p/9564022.html

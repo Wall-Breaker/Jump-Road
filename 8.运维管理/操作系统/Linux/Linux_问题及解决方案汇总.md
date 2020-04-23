@@ -16,3 +16,5 @@ https://blog.51cto.com/bestlope/1977074
 https://www.jianshu.com/p/a63f47e096e8
 * linux让 kibana 后台启动的方案
 https://www.cnblogs.com/straycats/p/7575910.html
+* centos 7 network.service control process exited
+https://www.cnblogs.com/shiqi17/p/9564022.html
