@@ -32,3 +32,8 @@ https://blog.csdn.net/qq_42074921/article/details/89488192
 ---
 解决springboot项目请求出现非法字符问题 java.lang.IllegalArgumentException:Invalid character found in the request target. The valid characters are defined in RFC 7230 and RFC 3986
 https://www.cnblogs.com/saltiest/p/11213976.html
+
+---
+eureka报错Unable to start web server; nested exception is org.springframework.boot.web
+https://blog.csdn.net/qq_38366063/article/details/88562224
+
