@@ -13,3 +13,6 @@ https://blog.csdn.net/zj420964597/article/details/87856758
 IDEA 设置注释模板
 https://my.oschina.net/u/4000688/blog/2994273
 https://www.jianshu.com/p/812d06702437
+
+今日报错Cannot access java.lang.String
+https://www.cnblogs.com/yinshunxin/p/10647989.html
