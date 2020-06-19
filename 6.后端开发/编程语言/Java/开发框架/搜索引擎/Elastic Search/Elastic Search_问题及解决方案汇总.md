@@ -22,3 +22,6 @@ https://www.cnblogs.com/houweijian/p/10448655.html
 
 ES地理范围查询第二讲：地理位置信息之geo_shape
 https://blog.csdn.net/u013272779/article/details/103064162?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task
+
+本地后台运行elasticsearch，关闭窗口服务不会被终止
+https://blog.csdn.net/weixin_38106322/article/details/100829298?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase

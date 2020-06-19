@@ -190,6 +190,33 @@ POST /testIndex/doc/_search?size=0
 > [【参考】时间聚合查询](https://blog.csdn.net/jianshaoguang8886/article/details/82178817
 )
 
+地理查询
+---
+* 根据矩形查询里面的形状
+```
+GET /testIndex/_search
+{
+    "query":{
+        "bool": {
+            "must": {
+                "match_all": {}
+            },
+            "filter": {
+                "geo_shape": {
+                    "shape": {
+                        "shape": {
+                            "type": "envelope",
+                            "coordinates" : [[0, 10.0], [10,0]]
+                        },
+                        "relation": "within"
+                    }
+                }
+            }
+        }
+    }
+}
+```
+
 
 其它
 ---
