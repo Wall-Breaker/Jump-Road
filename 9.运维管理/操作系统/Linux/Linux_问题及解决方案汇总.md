@@ -18,3 +18,12 @@ https://www.jianshu.com/p/a63f47e096e8
 https://www.cnblogs.com/straycats/p/7575910.html
 * centos 7 network.service control process exited
 https://www.cnblogs.com/shiqi17/p/9564022.html
+
+* 如何查看linux系统的体系结构
+https://blog.csdn.net/lixuande19871015/article/details/90485929
+
+* CentOS7 Failed to start LSB: Bring up/down networking.解决方法
+https://blog.csdn.net/chenyiming2010/article/details/83713391
+
+* linux怎么安装wget？
+https://www.php.cn/linux-419500.html

@@ -145,12 +145,102 @@ GET /testIndex/doc/_search
 }
 ```
 
-地理查询
----
-* 
+* 根据查询条件更新字段值
 ```
- 
+POST /test/doc/_update_by_query
+{
+   "script": {
+        "source": "ctx._source.layername = params.layername;ctx._source.layerid = params.layerid",
+        "params": {
+            "layername": "123",
+            "layerid":"456"
+        },
+        "lang":"painless"
+    },
+  "query": {
+    "match":{
+      "customs.test.keyword":"app"
+    }
+  }
+}
 ```
+
+* 新增
+```
+POST test/doc
+{
+  "name": "t0",
+  "shape": {
+    "type": "polygon",
+    "coordinates": [
+      [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    ]
+  }
+}
+
+```
+
+* 删除
+```
+DELETE test/doc/RVpxUHMB5g-rAKolGqWk
+```
+
+* 修改
+```
+PUT test/doc/SFp0UHMB5g-rAKolJaWq
+{
+  "name": "t0",
+  "shape": {
+    "type": "polygon",
+    "coordinates": [
+      [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    ]
+  }
+}
+```
+
 
 聚合查询
 ---
