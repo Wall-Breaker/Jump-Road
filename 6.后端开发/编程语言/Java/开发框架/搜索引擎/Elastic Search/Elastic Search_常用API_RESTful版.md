@@ -205,8 +205,17 @@ POST test/doc
 ```
 DELETE test/doc/RVpxUHMB5g-rAKolGqWk
 ```
+* 更新（局部更新）
+```
+POST test/_doc/1/_update
+{
+    "doc" : {
+        "name" : "new_name"
+    }
+}
+```
 
-* 修改
+* 更新（覆盖更新）
 ```
 PUT test/doc/SFp0UHMB5g-rAKolJaWq
 {
