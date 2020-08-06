@@ -23,3 +23,5 @@ https://blog.csdn.net/weixin_42266606/article/details/80879571?utm_medium=distri
 https://blog.csdn.net/qq_40181063/article/details/90713153?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.nonecase
 https://blog.csdn.net/qq_36564461/article/details/99824707?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-9.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-9.nonecase
 
+MySQL5.7版本sql_mode=only_full_group_by问题解决办法
+https://blog.csdn.net/weixin_43064185/article/details/99646535

@@ -12,3 +12,6 @@ https://blog.csdn.net/gaozhonghua12/article/details/98650567
 
 *SQL state [99999]; error code [17056]; 不支持的字符集 (在类路径中添加 orai18n.jar): ZHS16GBK;
 https://blog.csdn.net/qq904274014/article/details/90899925
+
+*几种常见mybatis分页实现
+https://blog.csdn.net/feinifi/article/details/88769101
