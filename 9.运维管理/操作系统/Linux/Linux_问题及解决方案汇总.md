@@ -27,3 +27,6 @@ https://blog.csdn.net/chenyiming2010/article/details/83713391
 
 * linux怎么安装wget？
 https://www.php.cn/linux-419500.html
+
+linux 查看进程启动时，用户的工作目录
+https://www.cnblogs.com/oxspirt/p/8196100.html

@@ -25,3 +25,9 @@ https://blog.csdn.net/u013272779/article/details/103064162?depth_1-utm_source=di
 
 本地后台运行elasticsearch，关闭窗口服务不会被终止
 https://blog.csdn.net/weixin_38106322/article/details/100829298?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase
+
+elasticsearch报 NoNodeAvailableException[None of the configured nodes are available
+https://www.jianshu.com/p/ea0bd9d82f6c
+
+java.lang.IllegalStateException: availableProcessors is already set to [4], rejecting [4] 解决，实测有效
+https://blog.csdn.net/qq_28364999/article/details/81110819
