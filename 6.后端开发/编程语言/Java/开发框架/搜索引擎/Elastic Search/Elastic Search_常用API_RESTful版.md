@@ -165,6 +165,36 @@ POST /test/doc/_update_by_query
 }
 ```
 
+* 查询某个字段为空的文档
+```
+GET wttest/_search
+{
+  "query": {
+    "bool": {
+      "should": [
+        {
+          "bool": {
+            "must_not": [
+              {
+                "exists": {
+                  "field": "address"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "term": {
+            "address.keyword": ""
+          }
+        }
+      ]
+    }
+  }
+}
+```
+
+
 * 新增
 ```
 POST test/doc
