@@ -184,7 +184,7 @@ GET wttest/_search
           }
         },
         {
-          "term": {
+          "term": {POS
             "address.keyword": ""
           }
         }
